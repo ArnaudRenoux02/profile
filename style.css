@@ -1,0 +1,65 @@
+#profile_picture {
+  width: 150px;
+  heigth: 200px
+}
+.img-circle {
+  width: 200px;
+
+}
+body {
+  color: black;
+  background-color: #0ca4a5;
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
+  line-height:1,5px
+}
+
+h1 {
+  font-size: 50px;
+  font-family: Amatic SC;
+  line-height:1,5px
+}
+
+h2{
+  font-size: 40px;
+  font-family: Amatic SC;
+  line-height:1,5px
+}
+
+h3{
+  font-size: 30px;
+  font-family: Amatic SC;
+  line-height:1,5
+}
+
+.text-center {
+  text-align: center;
+}
+
+.card{
+background: white;
+border: solid 1px ccc;
+padding: 30px;
+border-radius: 5px;
+margin-bottom: 20px
+}
+
+.container {
+max-width:800px ;
+margin:0 auto
+}
+
+.list-inline{
+list-style: none;
+padding-left: 0;
+
+}
+
+.list-inline li {
+  display: inline-block;
+  margin-right: 100px;
+}
+.list-inline li.last {
+  margin-right: 0px
+}
+

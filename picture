@@ -1,0 +1,4 @@
+#profile_picture {
+  width: 40px;
+  length: 50px;
+}
